@@ -1,4 +1,5 @@
 # knowledge_graph_trust
 
-pip install -r requirements.txt
+cd knowledge_graph_trust/demo
+pip3 install -r requirements.txt
 
