@@ -29,7 +29,7 @@ user_follow_template = '''
 
 class Weibo:
     cookie = {
-        "Cookie": '_T_WM=6b09d8cfff99c3af3cc10ca0a518754a; MLOGIN=0; M_WEIBOCN_PARAMS=uicode%3D10000011%26fid%3D102803; SUB=_2A25xD7_ADeRhGeBG6FAU-S3Iyz-IHXVS88GIrDV6PUJbkdANLRb1kW1NRg0GuxMN95p1EYHz8xkVaR_F31UftZz0; SUHB=0JvgFbIGwbi-V5; SCF=An4qs1Vf3I7EPiars1HvEpFDil3QE3JZUgkP-z-qsCp99-Lpz68LeicTHyR37xjm_vpuCsryN-R519wxrK1NLYA.; SSOLoginState=1544277904'
+        "Cookie": '_T_WM=e1e85f1a27e03a5daa55091bcef73d67; MLOGIN=0; M_WEIBOCN_PARAMS=uicode%3D10000011%26fid%3D102803; SUB=_2A25xqAfEDeRhGeBG6FAU-S3Iyz-IHXVTUqmMrDV6PUJbkdAKLWrZkW1NRg0Gu1Yobj3b2IGF9wiQ_mBfWnUMqVK9; SUHB=0S7CM1qupy9gjg; SCF=Alh_hWHjS0b7iSwSB7L4cZcKm3v_-8575eYbj4B1ZKbveh9nDe5SUo8oh_hKJPObgIgYsk2FHEEva_fTgRvmdmc.; SSOLoginState=1554806676'
     }  # 将your cookie替换成自己的cookie
 
     # cookie = {"Cookie":''}
@@ -528,9 +528,4 @@ def get_weibo_userid_special(username):
 # 1896891963 方滨兴
 ids = [2830273497]
 if __name__ == "__main__":
-    for id in ids:
-        get_weibo_userid('张翼ZyzY')
-        time.sleep(5)
-    # 1195354434
-    # main(5427178881)
-    # test()
+    pass

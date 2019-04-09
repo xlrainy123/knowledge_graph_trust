@@ -94,7 +94,7 @@ pos_en_cn = {
     'TIME':'时间'
 }
 
-baidu_access_token = '24.5f48235512ba67f4dd195f94db43bb02.2592000.1553676652.282335-15340960'
+baidu_access_token = '24.78aea20fba379ebdba5fb9063fde52d0.2592000.1557404692.282335-15340960'
 baidu_app_id_nlp = '15052604'
 baidu_app_key_nlp = '4F1hwLT9H5eHYyL4GWc4BRDK'
 baidu_access_token_nlp = 'FCZpazzkIxe1qCm7z3iU2oKbCjcs7XhP'
@@ -111,7 +111,8 @@ cookie = {
         "Cookie": '_T_WM=6b09d8cfff99c3af3cc10ca0a518754a; MLOGIN=0; M_WEIBOCN_PARAMS=uicode%3D10000011%26fid%3D102803; SUB=_2A25xD7_ADeRhGeBG6FAU-S3Iyz-IHXVS88GIrDV6PUJbkdANLRb1kW1NRg0GuxMN95p1EYHz8xkVaR_F31UftZz0; SUHB=0JvgFbIGwbi-V5; SCF=An4qs1Vf3I7EPiars1HvEpFDil3QE3JZUgkP-z-qsCp99-Lpz68LeicTHyR37xjm_vpuCsryN-R519wxrK1NLYA.; SSOLoginState=1544277904'
 }  # 将your cookie替换成自己的cookie
 
-mysql_password =  'Threat-Mysql-222'
+# mysql_password =  'Threat-Mysql-222'
+mysql_password =  '111'
 
 follows_limit = 50
 weibo_contents_limit = 40
